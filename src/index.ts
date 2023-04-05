@@ -3,3 +3,4 @@ const hello = (name: string): string => {
 };
 
 console.log(hello("World"));
+// hoge
